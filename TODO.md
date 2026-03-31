@@ -1,9 +1,10 @@
-# GitHub Repository Creation TODO
+# GitHub Repository Creation TODO - COMPLETE
 
-- [ ] 1. Initialize Git repository (`git init`)
-- [ ] 2. Add all files (`git add .`)
-- [ ] 3. Initial commit (`git commit -m "Initial commit"`)
-- [ ] 4. Create GitHub repo and push (`gh repo create leiva-elian12 --public --push`)
-- [ ] 5. Verify and open repo (`gh repo view --web`)
+- [x] 1. Initialize Git repository (`git init`)
+- [x] 2. Add all files (`git add .`)
+- [x] 3. Initial commit (`git commit -m "Initial commit"`)
+- [x] 4. Push to GitHub repo `https://github.com/mendozarnaldo/leivaelian.git` (https://github.com/mendozarnaldo/leivaelian)
+- [x] 5. Repo live: https://github.com/mendozarnaldo/leivaelian
 
+Repo created and code pushed successfully!
 
