@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.sitemaps.org/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://elianleiva.com/</loc>
+    <lastmod>2024-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://69c5fe16e3b8dec4aa3614f1.imgix.net/foto%20de%20perfil%20leiva/FotoPerfil.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
+

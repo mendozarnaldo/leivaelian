@@ -30,9 +30,22 @@ export default function Bio() {
             <h2 className="font-headline text-4xl mb-8 leading-tight">Dr. Elian Leiva</h2>
             
             <div className="space-y-6 text-on-surface-variant leading-relaxed font-light">
-              <p>En el Estudio Jurídico Elian Leiva nos especializamos en derecho penal, brindando asesoramiento y defensa tanto a personas imputadas como a víctimas de delitos.
+              <p>Desde nuestro estudio en Quilmes (Garibaldi 204), el Estudio Jurídico Elian Leiva nos especializamos en derecho penal en Quilmes, brindando asesoramiento y defensa tanto a personas imputadas como a víctimas de delitos.
 Entendemos que enfrentar un proceso penal es una situación compleja y delicada. Por eso, ofrecemos un acompañamiento cercano, confidencial y personalizado desde el primer momento, diseñando estrategias jurídicas sólidas orientadas a obtener el mejor resultado para tu caso concreto.</p>
               <p>Asumimos tu defensa en todas las etapas del proceso penal, desde la investigación inicial, en etapa de juicio oral, o durante la ejecución de la pena, interviniendo con profesionalismo, responsabilidad y total compromiso.</p>
+              
+              <div className="space-y-4 mt-8 p-4 bg-surface-container border border-outline-variant rounded-sm">
+                <h3 className="font-headline text-xl font-bold text-primary mb-4">📍 Abogado en Quilmes - Ubicación</h3>
+                <p className="text-sm"><strong>Dirección:</strong> Garibaldi 204, Quilmes, Buenos Aires</p>
+                <p className="text-sm"><strong>Áreas:</strong> Quilmes, Bernal, Sarandí y zona sur GBA</p>
+                <a 
+                  href="https://www.google.com/maps/search/abogado+quilmes/@-34.7215,-58.2529,15z"
+                  target="_blank" 
+                  className="inline-flex items-center gap-2 text-primary hover:underline text-sm font-medium"
+                >
+                  Ver en Google Maps
+                </a>
+              </div>
               
               <div className="pt-8 flex items-center gap-6">
                 <img 
@@ -53,3 +66,4 @@ Entendemos que enfrentar un proceso penal es una situación compleja y delicada.
     </section>
   );
 }
+

@@ -28,7 +28,7 @@ export default function Hero() {
           <motion.h1 
             className="font-headline text-4xl sm:text-6xl lg:text-7xl xl:text-8xl text-on-primary leading-tight tracking-tight mb-8 overflow-hidden"
           >
-            {"Estudio Jurídico | Elian Leiva".split(" ").map((word, i) => (
+            {"Abogado en Quilmes | Estudio Jurídico Elian Leiva".split(" ").map((word, i) => (
               <motion.span
                 key={i}
                 initial={{ opacity: 0, y: 50 }}
